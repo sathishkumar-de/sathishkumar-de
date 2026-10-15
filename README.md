@@ -16,7 +16,7 @@
 - Learn modern data platforms and cloud technologies.
 
 ### 📫 Connect With Me
-- **GitHub:** [@sathishkumar](https://github.com/sathishkumar)
+- **GitHub:** [@sathishkumar](https://github.com/sathishkumar-de)
 - **LinkedIn:** [Sathish G](www.linkedin.com/in/sathish-g-65b50b305)
 - **Email:** sathishthekid@gmail.com
 
