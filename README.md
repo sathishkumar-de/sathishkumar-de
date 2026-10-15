@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sathish Kumar 👋
 
-<!--
-**sathishkumar-de/sathishkumar-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at SSN College of Engineering, India.
 
-Here are some ideas to get you started:
+🚀 Aspiring Data Engineer passionate about building data pipelines, working with databases, and exploring cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Databases:** MySQL
+- **Tools:** Linux, Git, GitHub
+- **Currently Learning:** ETL/ELT, Apache Airflow, PySpark, Databricks, and Azure Data Engineering
+
+### 🎯 Goals
+- Build real-world Data Engineering projects.
+- Strengthen my problem-solving and programming skills.
+- Learn modern data platforms and cloud technologies.
+
+### 📫 Connect With Me
+- **GitHub:** [@sathishkumar](https://github.com/sathishkumar)
+- **LinkedIn:** [Sathish G](www.linkedin.com/in/sathish-g-65b50b305)
+- **Email:** sathishthekid@gmail.com
+
+---
+
+⭐ *Always learning, building, and improving.*
